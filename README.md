@@ -1,2 +1,2 @@
 # PassGen
-Password Generator 16 characters
+Password Generator 16 characters (letter, number, ponctuation)
